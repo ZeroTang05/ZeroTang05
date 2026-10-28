@@ -7,9 +7,9 @@
 <img height="64" src="./README/icons/CPP.svg" alt="C++"> <img height="64" src="./README/icons/JavaScript.svg" alt="JavaScript"> <img height="64" src="./README/icons/HTML.svg" alt="HTML"> <img height="64" src="./README/icons/Python-Dark.svg" alt="Python"> <img height="64" src="./README/icons/Cloudflare-Dark.svg" alt="Cloudflare"> <img height="64" src="./README/icons/Vercel-Dark.svg" alt="Vercel"> <img height="64" src="./README/icons/React-Dark.svg" alt="React"> <img height="64" src="./README/icons/Vite-Dark.svg" alt="Vite"> <img height="64" src="./README/icons/NodeJS-Dark.svg" alt="Node.js"> <img height="64" src="./README/icons/QT-Dark.svg" alt="Qt"> <img height="64" src="./README/icons/Nginx.svg" alt="Nginx"> <img height="64" src="./README/icons/SQLite.svg" alt="SQLite"> <img height="64" src="./README/icons/MySQL-Dark.svg" alt="MySQL"> <img height="64" src="./README/icons/MongoDB.svg" alt="MongoDB"> <img height="64" src="./README/icons/Figma-Dark.svg" alt="Figma"> <img height="64" src="./README/icons/PyTorch-Dark.svg" alt="PyTorch"> <img height="64" src="./README/icons/Git.svg" alt="Git"> <img height="64" src="./README/icons/Github-Dark.svg" alt="GitHub"> <img height="64" src="./README/icons/GithubActions-Dark.svg" alt="GitHub Actions"> <img height="64" src="./README/icons/Vitest-Dark.svg" alt="Vitest"> <img height="64" src="./README/icons/Notion-Dark.svg" alt="Notion"> <img height="64" src="./README/icons/Docker.svg" alt="Docker">
 
 # 📊 Stats:
-![GitHub trophy](https://github-profile-trophy-gules-nu.vercel.app/?username=ZeroTang05&theme=light&no-bg=true&column=9)
-![GitHub Stats](https://github-readme-stats-8xh4.vercel.app/api?username=ZeroTang05&show=reviews&theme=transparent&hide_title=true)
-![Top Languages](https://github-readme-stats-8xh4.vercel.app/api/top-langs/?username=ZeroTang05&theme=transparent&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5)
+![GitHub trophy](https://github-profile-trophy-dusky-one.vercel.app/?username=ZeroTang05&theme=light&no-bg=true&column=9)
+![GitHub Stats](https://github-readme-stats-phi-brown-71.vercel.app/api?username=ZeroTang05&show=reviews&theme=transparent&hide_title=true)
+![Top Languages](https://github-readme-stats-phi-brown-71.vercel.app/api/top-langs/?username=ZeroTang05&theme=transparent&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5)
 
 
 
